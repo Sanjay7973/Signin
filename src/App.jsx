@@ -8,8 +8,8 @@ function App() {
  
   return (
     <>
-      {/* <Curdoperation/> */}
-      <SignIn/>
+      <Curdoperation/>
+      {/* <SignIn/> */}
     </>
   );
 }
